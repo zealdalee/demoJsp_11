@@ -20,6 +20,7 @@ public class MyRunner implements ApplicationRunner {
         System.out.println("++++++++++++ My Runner ++++++++++++++");
         System.out.println("+++++++++++++++++++++++++++++++++++++");
         System.out.println("+++++++++++++++++++++++++++++++++++++");
+        System.out.println("test");
         testQClass();
     }
 
